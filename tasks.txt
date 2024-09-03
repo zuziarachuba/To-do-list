@@ -1,2 +1,4 @@
-Learn python
+Vacuum
+Learn python 
 Clean the kitchen
+Do the dishes
