@@ -33,7 +33,6 @@ def save_task():
 
 while choice != "exit":
 
-    print("Welcome to your to-do list!")
     print("Here are your options: ")
     print("- add task (write 'add')")
     print("- delete task (write 'delete')")
@@ -51,4 +50,5 @@ while choice != "exit":
         save_task()
     print()
     choice = str(input("What would you like to do? "))
+
 print()
